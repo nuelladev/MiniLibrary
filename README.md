@@ -19,6 +19,7 @@ MiniLibrary is a lightweight Java library management system that allows you to m
 - Manage Books: Add, update, and delete library books.
 - Borrow and Return Books: Allow users to borrow and return books.
 - Activity Logging: Log all library activities to a file by dates.checkout the screenshot
+![Activity Log Screenshot](https://github.com/nuelladev/MiniLibrary/blob/master/Screenshot%20(185).png)
 - Mostly identifies books with ISBN. Reason? because each an author can write two books and 2 books can have the same name. Hence, it only makes sense to identify unique books added to the system with their ISBN number. 
 
 ## Prerequisites
