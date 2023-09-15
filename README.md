@@ -32,14 +32,14 @@ Before you start using MiniLibrary, make sure you have the following installed:
 
 ## Getting Started
 
-### Installation
+## Installation
 
 Clone the MiniLibrary repository to your local machine:
 
 ```bash
 git clone https://github.com/your-username/MiniLibrary.git
 
-### Configuration
+## Configuration
 
 1. Navigate to the `application.properties` file in the `src/main/resources` directory.
 
@@ -53,7 +53,7 @@ git clone https://github.com/your-username/MiniLibrary.git
 
 MiniLibrary is a simple library management system that provides RESTful APIs for managing users, books, borrowed books, and activity logs. You can interact with the library system using various API endpoints.
 
-### API Endpoints
+## API Endpoints
 
 #### Users
 
